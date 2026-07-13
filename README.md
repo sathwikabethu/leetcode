@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sathwikabethu/leetcode/tree/master/0367-valid-perfect-square) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sathwikabethu/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
