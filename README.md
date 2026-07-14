@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sathwikabethu/leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/sathwikabethu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/sathwikabethu/leetcode/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
