@@ -39,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/sathwikabethu/leetcode/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/sathwikabethu/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
