@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sathwikabethu/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/sathwikabethu/leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/sathwikabethu/leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/sathwikabethu/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/sathwikabethu/leetcode/tree/master/0627-swap-sex-of-employees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
