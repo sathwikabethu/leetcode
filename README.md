@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Simulation
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
