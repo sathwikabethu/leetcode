@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sathwikabethu/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sathwikabethu/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1185-day-of-the-week](https://github.com/sathwikabethu/leetcode/tree/master/1185-day-of-the-week) |
 ## String
 |  |
 | ------- |
