@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Simulation
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sathwikabethu/leetcode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
