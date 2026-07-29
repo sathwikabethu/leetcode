@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sathwikabethu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 ## Simulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sathwikabethu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
