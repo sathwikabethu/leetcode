@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/sathwikabethu/leetcode/tree/master/0177-nth-highest-salary) |
 | [0607-sales-person](https://github.com/sathwikabethu/leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/sathwikabethu/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/sathwikabethu/leetcode/tree/master/0627-swap-sex-of-employees) |
