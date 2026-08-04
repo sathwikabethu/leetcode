@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
