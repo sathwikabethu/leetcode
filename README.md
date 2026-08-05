@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sathwikabethu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
+| [1446-consecutive-characters](https://github.com/sathwikabethu/leetcode/tree/master/1446-consecutive-characters) |
 ## Binary Search
 |  |
 | ------- |
