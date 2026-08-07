@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sathwikabethu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sathwikabethu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/sathwikabethu/leetcode/tree/master/0415-add-strings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sathwikabethu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sathwikabethu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sathwikabethu/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
