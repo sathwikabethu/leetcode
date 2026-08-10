@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/sathwikabethu/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sathwikabethu/leetcode/tree/master/0704-binary-search) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sathwikabethu/leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/sathwikabethu/leetcode/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
 | ------- |
