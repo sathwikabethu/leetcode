@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sathwikabethu/leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sathwikabethu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sathwikabethu/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/sathwikabethu/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sathwikabethu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sathwikabethu/leetcode/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/sathwikabethu/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sathwikabethu/leetcode/tree/master/0367-valid-perfect-square) |
