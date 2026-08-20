@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sathwikabethu/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sathwikabethu/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sathwikabethu/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sathwikabethu/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sathwikabethu/leetcode/tree/master/0258-add-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sathwikabethu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sathwikabethu/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sathwikabethu/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sathwikabethu/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sathwikabethu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sathwikabethu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sathwikabethu/leetcode/tree/master/0013-roman-to-integer) |
 | [3731-find-missing-elements](https://github.com/sathwikabethu/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
