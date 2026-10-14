@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sathwikabethu/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sathwikabethu/leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sathwikabethu/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikabethu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/sathwikabethu/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sathwikabethu/leetcode/tree/master/0704-binary-search) |
 | [2562-find-the-array-concatenation-value](https://github.com/sathwikabethu/leetcode/tree/master/2562-find-the-array-concatenation-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sathwikabethu/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sathwikabethu/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sathwikabethu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
