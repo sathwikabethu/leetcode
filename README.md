@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sathwikabethu/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sathwikabethu/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sathwikabethu/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3692-majority-frequency-characters](https://github.com/sathwikabethu/leetcode/tree/master/3692-majority-frequency-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sathwikabethu/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
